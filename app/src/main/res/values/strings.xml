@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Receipter</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+
+</resources>

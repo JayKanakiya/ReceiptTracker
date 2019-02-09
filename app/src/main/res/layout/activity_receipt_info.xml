@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TableRow android:layout_marginTop="1dp">
+        <TextView
+            android:text="Receipt No"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+
+            />
+        <TextView
+            android:text="Items"
+            android:textSize="18sp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="80dp"
+            />
+        <TextView
+            android:text="Quantity"
+            android:textSize="18sp"
+            android:layout_marginRight="30dp"
+            />
+        <TextView
+            android:text="Amount"
+            android:textSize="18sp"
+            />
+
+    </TableRow>
+    <TableRow android:layout_marginTop="20dp">
+        <TextView
+            android:text="1485"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+
+            />
+        <TextView
+            android:text="Bread"
+            android:textSize="18sp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="40dp"
+            />
+        <TextView
+            android:text="1"
+            android:textSize="18sp"
+            android:layout_marginRight="35dp"
+            />
+        <TextView
+            android:text="50"
+            android:textSize="18sp"
+            />
+
+    </TableRow>
+    <TableRow android:layout_marginTop="10dp">
+        <TextView
+            android:text="1486"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+
+            />
+        <TextView
+            android:text="Milk"
+            android:textSize="18sp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="80dp"
+            />
+        <TextView
+            android:text="3"
+            android:textSize="18sp"
+            android:layout_marginRight="35dp"
+            />
+        <TextView
+            android:text="240"
+            android:textSize="18sp"
+            />
+
+    </TableRow>
+</TableLayout>

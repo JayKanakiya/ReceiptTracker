@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:rowCount="2"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/rec1"
+        android:layout_gravity="left|top"
+        android:text="Receipt 1"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <Button
+        android:id="@+id/rec2"
+        android:layout_gravity= "right|top"
+        android:text="Receipt 2"
+        android:layout_marginTop="30dp"
+        />
+
+    <Button
+        android:id="@+id/rec3"
+        android:layout_gravity="left|top"
+        android:text="Receipt 3"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="80dp"
+
+        />
+
+    <Button
+        android:id="@+id/rec4"
+        android:layout_gravity="left|top"
+        android:text="Receipt 4"
+        android:layout_marginTop="80dp"
+
+        />
+    <Button
+        android:id="@+id/rec3"
+        android:layout_gravity="left|top"
+        android:text="Receipt 5"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="80dp"
+
+        />
+
+    <Button
+        android:id="@+id/rec4"
+        android:layout_gravity="left|top"
+        android:text="Receipt 46"
+        android:layout_marginTop="80dp"
+
+        />
+
+
+
+</GridLayout>
